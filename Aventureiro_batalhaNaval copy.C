@@ -14,7 +14,7 @@ int main() {
 
     printf("  ");
     
-    //Posiciona navios
+    //Posiciona navio
     //Navio 1 - Horizontal
 
     tabuleiro[9][3] = 3;
