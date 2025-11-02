@@ -6,7 +6,7 @@
 
 int main() {
 
-    // Nível Novato - Posicionamento dos Navios
+    // Nível Novato -- Posicionamento dos Navios
 
     char coluna[10] = {'A','B','C','D','E','F','G','H','I','J'};
     int linha[10] = {0,1,2,3,4,5,6,7,8,9};
